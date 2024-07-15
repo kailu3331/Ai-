@@ -1,5 +1,5 @@
 a=8
 L=6
 print(a*L)
-push
+
 
